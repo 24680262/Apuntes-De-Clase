@@ -32,3 +32,6 @@ Agregas a la página: Usas ```page.add(txt)``` o ```page.controls.append(txt)```
 
 ## Diferencia técnica: Imperativo vs. Declarativo
 A diferencia del modelo imperativo (donde das instrucciones paso a paso para dibujar), Flet es declarativo: tú describes el estado deseado de la interfaz ("Quiero una columna con dos botones") y el framework se encarga de renderizarlo eficientemente usando Flutter en el fondo.
+
+## Bibliografia
+Introduccion - Flet. (s. f.). Flet. https://flet.dev/docs/guides/python/how-it-works
